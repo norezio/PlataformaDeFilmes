@@ -1,7 +1,7 @@
 {
-  "name": "netflix",
+  "name": "Plataforma de Filmes",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@mui/icons-material": "^5.2.5",
     "@mui/material": "^5.2.5",
