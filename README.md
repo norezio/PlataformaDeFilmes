@@ -7,7 +7,7 @@ Projeto desenvolvido para demonstrar habilidades em:
  -> HTML
  -> CSS 
 
-Não utilizei mais nenhum framework além do react, até para demontrar com mais clareza as habilidades em CSS, e como podem ser bem utilizado com React, de forma simples e sem grandes complicações quando o conhecimento é bem aplicado.
+Não utilizei mais nenhum framework além do react, CSS puro, para demonstrar como podem ser bem utilizado com React, de forma simples e sem grandes complicações quando o conhecimento é bem aplicado.
 
 O objetivo do projeto é demonstrar as habilidades apenas, sem pretensão de exibir filmes sem direitos autorais.
 
